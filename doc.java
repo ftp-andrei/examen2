@@ -2,8 +2,10 @@
 /**
  * Write a description of class doc here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Andrei Miu) 
+ * @version (22/06/2020)
+ * @param int x, String file
+ * @return Devuelve el contenido de la fila X del File
  */
 public interface doc
 {
